@@ -1,0 +1,7 @@
+# Binaries
+*.exe
+*.o
+*.obj
+
+# Temporary and log files
+*.log

@@ -1,0 +1,64 @@
+----------------------------------------
+             ATM RECEIPT                
+ Terminal ID: ATM-001
+ Date/Time  : 2026-11-18 15:05:50
+ Account No : ACC1001
+ Customer   : john
+ Transaction: BALANCE INQUIRY
+ Details    : Balance viewed
+ Amount     : $0.00
+ Balance    : $2500.00
+ Status     : COMPLETED
+----------------------------------------
+
+----------------------------------------
+             ATM RECEIPT                
+ Terminal ID: ATM-001
+ Date/Time  : 2026-11-18 15:06:34
+ Account No : ACC1001
+ Customer   : john
+ Transaction: MINI_STATEMENT
+ Details    : Last transactions summary
+ Amount     : $0.00
+ Balance    : $2414.50
+ Status     : COMPLETED
+----------------------------------------
+
+----------------------------------------
+             ATM RECEIPT                
+ Terminal ID: ATM-001
+ Date/Time  : 2026-11-18 15:15:17
+ Account No : ACC1001
+ Customer   : john
+ Transaction: BALANCE INQUIRY
+ Details    : Balance viewed
+ Amount     : $0.00
+ Balance    : $2500.00
+ Status     : COMPLETED
+----------------------------------------
+
+----------------------------------------
+             ATM RECEIPT                
+ Terminal ID: ATM-001
+ Date/Time  : 2026-11-18 15:16:35
+ Account No : ACC1001
+ Customer   : john
+ Transaction: CASH WITHDRAWAL
+ Amount     : $500.00
+ Balance    : $2000.00
+ Status     : COMPLETED
+----------------------------------------
+
+----------------------------------------
+             ATM RECEIPT                
+ Terminal ID: ATM-001
+ Date/Time  : 2026-11-18 15:18:30
+ Account No : ACC1001
+ Customer   : john
+ Transaction: DEPOSIT_CASH
+ Details    : Cash Deposit
+ Amount     : $7000.00
+ Balance    : $9000.00
+ Status     : COMPLETED
+----------------------------------------
+
